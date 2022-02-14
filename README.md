@@ -2,7 +2,7 @@
 
 ## Overview:
 
-PlanMyTrip is a tough travel technology company that specializes in internet related services in hotel and lodging industry. 
+PlanMyTrip is a travel technology company that specializes internet related services in hotel and lodging industry. 
 The goal is to collect and present data from customer input,  via search page, on which they filter based on preferred travel criteria in order they find their ideal travel plan anywhere in the world.  
 
 ### Deliverable 1: Retrieve Weather Data
