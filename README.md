@@ -6,6 +6,9 @@ PlanMyTrip is a travel technology company that specializes internet related serv
 
 The goal is to collect and present data from customer input,  via search page, on which they filter based on preferred travel criteria in order they find their ideal travel plan anywhere in the world.  
 
+
+## Results:
+
 ### Deliverable 1: Retrieve Weather Data
 
 -Retrieve all of the following information from the API call:
