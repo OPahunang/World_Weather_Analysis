@@ -66,12 +66,33 @@ The goal is to collect and present data from customer input,  via search page, o
 
 -Four DataFrames are created, one for each city on the itinerary
 
-![Four_Dataframes_each_city.png](https://github.com/OPahunang/World_Weather_Analysis/blob/main/Vacation_Itinerary/Resources/Four_Dataframes_each_city.png)
+   ![Four_Dataframes_each_city.png](https://github.com/OPahunang/World_Weather_Analysis/blob/main/Vacation_Itinerary/Resources/Four_Dataframes_each_city.png)
+
 
 -The latitude and longitude pairs for each of the four cities are retrieved.
 
-![Lat_Lng_for_each_city.png](https://github.com/OPahunang/World_Weather_Analysis/blob/main/Vacation_Itinerary/Resources/Lat_Lng_for_each_city.png)
+   ![Lat_Lng_for_each_city.png](https://github.com/OPahunang/World_Weather_Analysis/blob/main/Vacation_Itinerary/Resources/Lat_Lng_for_each_city.png)
 
+
+-A directions layer map between the cities and the travel map is created and uploaded as WeatherPy_travel_map.png.
+  
+  ![WeatherPy_travel_map.png](https://github.com/OPahunang/World_Weather_Analysis/blob/main/Vacation_Itinerary/WeatherPy_travel_map.png)
+  
+  
+-A DataFrame that contains the four cities on the itinerary is created.
+   
+   ![Resources/Dataframe_concat.png](https://github.com/OPahunang/World_Weather_Analysis/blob/main/Vacation_Itinerary/Resources/Dataframe_concat.png)
+   
+
+-A marker layer map with a pop-up marker for the cities on the itinerary is created, and it is uploaded as WeatherPy_travel_map_markers.png. Each marker has the following information: 
+
+   •	Hotel name
+   •	City
+   •	Country
+   •	Current weather description with the maximum temperature
+   
+   
+![WeatherPy_travel_map_markers.png](https://github.com/OPahunang/World_Weather_Analysis/blob/main/Vacation_Itinerary/WeatherPy_travel_map_markers.png)
 
 
 
