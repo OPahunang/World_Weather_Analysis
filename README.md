@@ -53,11 +53,26 @@ The goal is to collect and present data from customer input,  via search page, o
 
 
 -A marker layer map with pop-up markers for the cities in the vacation DataFrame is created, and it is uploaded as a PNG. Each marker has the following information: 
+   
    •	Hotel Name
    •	City
    •	Country
    •	Current weather description with the maximun temperature
    
    ![Resources/Map_marker_layer.png](https://github.com/OPahunang/World_Weather_Analysis/blob/main/Vacation_Search/Resources/Map_marker_layer.png)
+
+
+### Deliverable 3: Create a Travel Itinerary Map
+
+-Four DataFrames are created, one for each city on the itinerary
+
+![Four_Dataframes_each_city.png](https://github.com/OPahunang/World_Weather_Analysis/blob/main/Vacation_Itinerary/Resources/Four_Dataframes_each_city.png)
+
+-The latitude and longitude pairs for each of the four cities are retrieved.
+
+![Lat_Lng_for_each_city.png](https://github.com/OPahunang/World_Weather_Analysis/blob/main/Vacation_Itinerary/Resources/Lat_Lng_for_each_city.png)
+
+
+
 
 
