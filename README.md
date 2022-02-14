@@ -27,7 +27,7 @@ The goal is to collect and present data from customer input,  via search page, o
 
 -Export the DataFrame as WeatherPy_Database.csv  into the Weather_Database folder
 
-   ![Export_dataframe.png](https://github.com/OPahunang/World_Weather_Analysis/blob/main/Weather_Database/Export_dataframe.png)
+   ![Resources/Export_dataframe.png](https://github.com/OPahunang/World_Weather_Analysis/blob/main/Weather_Database/Resources/Export_dataframe.png)
 
 
 ### Deliverable 2: Create a Customer Travel Destinations Map
