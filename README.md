@@ -18,7 +18,7 @@ The goal is to collect and present data from customer input,  via search page, o
    •	Percent humidity
    •	Percent cloudiness
    •	Wind speed
-   •	Weather description (for example, clouds, fog, light rain, clear sky)
+   •	Weather description 
 
 
  ![Resources/Retrieve_information_from_API.png](https://github.com/OPahunang/World_Weather_Analysis/blob/main/Weather_Database/Resources/Retrieve_information_from_API.png)
