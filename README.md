@@ -22,7 +22,7 @@ The goal is to collect and present data from customer input,  via search page, o
 
 -Add the weather data to a new DataFrame
 
-   ![Add_weather_data_to_new_dataframe.png](https://github.com/OPahunang/World_Weather_Analysis/blob/main/Weather_Database/Add_weather_data_to_new_dataframe.png)
+   ![Add_weather_data_to_new_dataframe.png](https://github.com/OPahunang/World_Weather_Analysis/blob/main/Weather_Database/Resources/Add_weather_data_to_new_dataframe.png)
 
 
 -Export the DataFrame as WeatherPy_Database.csv  into the Weather_Database folder
