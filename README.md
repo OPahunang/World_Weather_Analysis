@@ -15,7 +15,7 @@ The goal is to collect and present data from customer input,  via search page, o
    •	Wind speed
    •	Weather description (for example, clouds, fog, light rain, clear sky)
     
-   ![Retrieve_information_from_API.png](https://github.com/OPahunang/World_Weather_Analysis/blob/main/Weather_Database/Retrieve_information_from_API.png)
+ ![Retrieve_information_from_API.png](https://github.com/OPahunang/World_Weather_Analysis/blob/main/Weather_Database/Retrieve_information_from_API.png)
 
 
 -Add the weather data to a new DataFrame
